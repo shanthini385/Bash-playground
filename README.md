@@ -1,12 +1,10 @@
-Bash Scripts Hub
+Bash Playground
 
 \================
 
   
 
-Welcome to the Bash Scripts Hub repository—a collection of useful Bash scripts designed
-
-to automate tasks, enhance productivity, and serve as examples for shell scripting enthusiasts.
+Welcome to the Bash Scripts Hub repository—a collection of useful Bash scripts designed to automate tasks, enhance productivity, and serve as examples for shell scripting enthusiasts.
 
   
 
@@ -17,7 +15,6 @@ Overview
 This repository contains a variety of Bash scripts that cover:
 
   
-
   - Automation: Simplify repetitive tasks and streamline workflows.
 
   - Utilities: Handy command-line tools for file management, text processing, and system monitoring.
@@ -26,25 +23,6 @@ This repository contains a variety of Bash scripts that cover:
 
   - Learning: Examples and best practices for writing efficient shell scripts.
 
-  
-
-Repository Structure
-
-\--------------------
-
-The repository is organized as follows:
-
-  
-
-  scripts/         - Folder containing individual Bash scripts.
-
-  docs/            - Additional documentation and guides.
-
-  README.txt       - This file.
-
-  LICENSE          - Licensing information.
-
-  
 
 Getting Started
 
@@ -64,9 +42,9 @@ Getting Started
 
    Clone the repository to your local machine:
 
-         git clone https://github.com/yourusername/bash-scripts-hub.git
+         git clone https://github.com/shanthini385/Bash-playground.git
 
-         cd bash-scripts-hub
+         cd bash-playground
 
   
 
@@ -82,28 +60,6 @@ Getting Started
 
   
 
-Contributing
-
-\------------
-
-Contributions, suggestions, and feedback are welcome. To contribute:
-
-  
-
-  1. Fork the repository.
-
-  2. Create a new branch for your feature or bugfix.
-
-  3. Commit your changes.
-
-  4. Open a pull request for review.
-
-  
-
-For further details, please refer to the CONTRIBUTING guidelines (if available).
-
-  
-
 License
 
 \-------
@@ -116,9 +72,7 @@ Contact
 
 \-------
 
-If you have any questions or suggestions, feel free to open an issue or contact us at:
-
-your-email@example.com
+If you have any questions or suggestions, feel free to open an issue or contact us at: s10031996@gmail.com
 
   
 
