@@ -23,6 +23,37 @@ This repository contains a variety of Bash scripts that cover:
 
   - Learning: Examples and best practices for writing efficient shell scripts.
 
+## Script Descriptions
+
+### 1. Elevated Access Notification Script
+Automates notifications regarding the revocation of elevated privileges. It parses a CSV file with validity dates and sends out HTML email alerts:
+- **Today:** Notifies that privileges will be revoked at noon.
+- **3, 7, or 10 days ahead:** Sends reminder emails.
+- **Overdue:** Alerts the Unix Team to review expired dates.
+
+### 2. Server Health Monitoring & Alerting
+Monitors key server metrics such as CPU, memory, and disk usage. If any metric exceeds its defined threshold, the script automatically sends an alert email to the administrator. Use this to ensure proactive server management.
+
+### 3. Automated Log Rotation and Archiving
+Manages log files by compressing and archiving them periodically. The script rotates logs by moving them to an archive directory with a timestamp, then truncates the original logs. This helps maintain disk space and preserves historical data for future reference.
+
+### 4. Continuous Deployment Pipeline
+Automates the deployment process by:
+- Pulling the latest code from a repository.
+- Building and testing the application.
+- Deploying the updated code using tools like `rsync`.
+This script is designed to streamline continuous integration and deployment workflows.
+
+### 5. Container Cleanup and Maintenance
+A simple maintenance tool for Docker environments. It cleans up:
+- Stopped containers
+- Unused images
+- Dangling volumes and networks
+Run this script periodically to reclaim disk space and keep your containerized applications running smoothly.
+
+### 6. Backup and Recovery Automation
+Creates compressed backups of critical data (directories, databases, etc.) and optionally uploads them to a remote location. This script is ideal for ensuring that backups are up-to-date and recoverable in the event of data loss.
+
 
 Getting Started
 
