@@ -1,16 +1,12 @@
-Bash Playground
+## Bash Playground
 
-\================
 
-  
 
 Welcome to the Bash Scripts Hub repository—a collection of useful Bash scripts designed to automate tasks, enhance productivity, and serve as examples for shell scripting enthusiasts.
 
   
 
-Overview
-
-\--------
+## Overview
 
 This repository contains a variety of Bash scripts that cover:
 
@@ -55,9 +51,7 @@ Run this script periodically to reclaim disk space and keep your containerized a
 Creates compressed backups of critical data (directories, databases, etc.) and optionally uploads them to a remote location. This script is ideal for ensuring that backups are up-to-date and recoverable in the event of data loss.
 
 
-Getting Started
-
-\---------------
+## Getting Started
 
 1\. Prerequisites:
 
@@ -91,17 +85,13 @@ Getting Started
 
   
 
-License
-
-\-------
+## License
 
 This repository is licensed under the MIT License. See the LICENSE file for more details.
 
   
 
-Contact
-
-\-------
+## Contact
 
 If you have any questions or suggestions, feel free to open an issue or contact us at: s10031996@gmail.com
 
